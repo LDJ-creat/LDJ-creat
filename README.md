@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello  👋
 
 <!--
 **LDJ-creat/LDJ-creat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m LDJ from CNGD  
+ 🌱 I’m currently learning react native+Expo uniapp(later) and golang  
+ ⚡ Fun fact: Do you know what is creat?
