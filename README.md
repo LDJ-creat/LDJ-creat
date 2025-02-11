@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m LDJ from CNGD  
- 🌱 I’m currently learning react native+Expo uniapp(later) and golang  
- ⚡ Fun fact: Do you know what is creat?
+ 🌱 
+ ⚡
